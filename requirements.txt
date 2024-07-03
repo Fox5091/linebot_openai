@@ -1,5 +1,5 @@
-Flask
-line-bot-sdk
-openai
-werkzeug
+Flask==2.0.2
+line-bot-sdk==1.20.0
+openai==0.10.1
+werkzeug==2.0.2
 gunicorn
